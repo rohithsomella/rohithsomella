@@ -34,10 +34,10 @@
 ## Skills
 
 - **Languages:** Core Java, Python Basics, and SQL.
-- **Web Frameworks:** Spring, Springboot.
+- **Web Frameworks:** Spring, Springboot MVC.
 - **Web Services:** Spring Rest.
 - **ORM Concept:** Spring Data JPA.
-- **UI Technologies:** HTML, CSS, and JavaScript.
+- **UI Technologies:** HTML, CSS, JavaScript and WordPress.
 - **UI Frameworks:** React JS.
 - **Database:** Oracle SQL, MySQL.
 - **Others:** Git, GitHub, Linux.
