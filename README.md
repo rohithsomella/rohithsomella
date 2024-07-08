@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rohithsomella@gmail.com**
 
-- 📄 Know about my experiences [http://surl.li/rwsnp](http://surl.li/rwsnp)
+- 📄 Know about my experiences https://rohithsomella.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
